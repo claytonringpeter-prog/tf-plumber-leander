@@ -1,0 +1,366 @@
+{
+  "mode": "localoptions",
+  "version": 1,
+  "url": "https://tf-plumber-leander.1r2.net",
+  "business": {
+    "name": "TF Plumber Leander",
+    "trade": "Plumbing",
+    "street": "701 Crystal Falls Pky",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "phone": "(512) 799-9083",
+    "email": "contact@TFPlumberLeander.net",
+    "social": {}
+  },
+  "services": [
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "stance": "noticed",
+      "h1": "Drain Cleaning in Leander, TX",
+      "title": "Drain Cleaning | TF Plumber Leander | Leander, TX",
+      "meta": "TF Plumber Leander clears slow and blocked drains in Leander, TX. We inspect fixtures, lines, cleanouts, and recurring backups before clearing blockages.",
+      "blurb": "We clear slow, gurgling, blocked, and backed-up drains across Leander.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "The sink gurgles, the shower holds water, or a sewer smell comes up from the drain. We trace the blockage from the fixture opening toward the branch line or cleanout.",
+            "We clear buildup from kitchen sinks, tubs, showers, floor drains, and laundry drains. Hair, soap residue, grease, food waste, and paper products can narrow a pipe until water has nowhere to go.",
+            "We recommend prompt work if water is backing up, a floor drain is filling, or more than one fixture is slow. A drain blockage can move through connected pipes and force wastewater out at a lower fixture."
+          ]
+        },
+        {
+          "heading": "Gurgling drains and sewer smell",
+          "paragraphs": [
+            "We hear reports of a kitchen sink that drains slowly, a tub that fills around the ankles, and a toilet that bubbles when the washing machine drains. We also check drains with a sewer smell, black residue around the opening, or water returning after the faucet is off.",
+            "We look at each fixture because a clog near a sink trap behaves differently from a blockage farther down a shared line. Similar sounds and standing water can come from separate faults, and the work changes once we locate the pipe section involved."
+          ]
+        },
+        {
+          "heading": "Drain camera inspection",
+          "paragraphs": [
+            "We start the callout by testing the affected fixture and nearby drains. We check water flow, listen for gurgling, inspect the trap and drain opening, and locate any accessible cleanout.",
+            "We may run a cable through the line to break up or retrieve the blockage. A straightforward fixture drain check and clearing often takes around twenty to forty minutes, depending on the route and material in the pipe.",
+            "We use a drain camera when the blockage returns, the cable meets a hard obstruction, or several fixtures share the problem. We can usually clear accessible buildup during the visit, while damaged pipe, root intrusion, or a buried line may need separate scheduling and further repair work."
+          ]
+        },
+        {
+          "heading": "Pipe access and blockage depth",
+          "paragraphs": [
+            "We base the scope on pipe access, blockage depth, and pipe material. A clog at a visible sink trap is different from buildup beyond a cleanout or inside an older cast-iron branch line.",
+            "We also account for the route to the drain opening, the condition of the cleanout cap, and whether cabinets, panels, or flooring block access. A seized cleanout or a line that needs camera inspection adds work before we can reach the obstruction.",
+            "We explain if the blockage appears limited to one fixture or extends into a shared drain line. We also flag situations where a pipe section, cleanout fitting, or outside line needs additional work after the clearing attempt."
+          ]
+        },
+        {
+          "heading": "Fixture location and cleanout access",
+          "paragraphs": [
+            "Tell us which room has the slow or backed-up fixture, such as the kitchen sink, hall bath tub, or laundry drain. Let us know whether one drain is affected or water rises in another fixture.",
+            "We can also use the location of any cleanout cap, even if it is in a garage, yard, closet, or crawlspace. Please mention standing water, sewer smell, gurgling, or a drain that is running back now.",
+            "Clear items from under the sink or around the tub access panel if you can do so safely. Call TF Plumber Leander at (512) 799-9083 before a blocked line pushes wastewater into another fixture or across the floor."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "water-heater-repair",
+      "name": "Water Heater Repair",
+      "stance": "two-jobs",
+      "h1": "Water Heater Repair in Leander, TX",
+      "title": "Water Heater Repair | TF Plumber Leander | Leander, TX",
+      "meta": "TF Plumber Leander handles water heater repair in Leander, TX, from cold faucets and tank leaks to failed elements, valves, and gas controls.",
+      "blurb": "Water heater fault checks and repairs for cold faucets, leaks, and failing parts.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A water heater can leave every faucet cold without putting a drop on the floor. A leaking tank or relief valve can show up from the hallway as water spreading from a utility closet, rusty water in a drain pan, or a wet floor by the heater.",
+            "We handle both no-hot-water faults and water escaping from the heater. An electric unit may have a failed element or thermostat. A gas unit may have an ignition, burner, vent, or control problem.",
+            "A dry loss of hot water can sometimes wait for a planned repair. Water around the tank, water from the relief valve, or a gas odor should not wait because the leak can damage flooring and framing, and a gas problem needs immediate attention."
+          ]
+        },
+        {
+          "heading": "No hot water or popping",
+          "paragraphs": [
+            "Customers call us because the shower turns cold halfway through, the kitchen faucet never gets hot, or the water stays lukewarm. Others hear popping or rumbling from the tank, see water under the heater, or notice rusty water at a hot-water faucet.",
+            "A cold faucet can point to an element, thermostat, pilot, burner, gas control, or broken dip tube. Popping often comes from sediment at the tank bottom, while a floor leak may come from a valve, fitting, drain connection, or tank seam. These faults can look alike from outside the closet, but they use different parts and require different repair work."
+          ]
+        },
+        {
+          "heading": "Heater diagnostic callout",
+          "paragraphs": [
+            "We start the callout at the heater cabinet. We read the model plate, inspect the tank shell, check the shutoff valve, look at the drain pan and discharge pipe, and trace visible water around fittings. On electric units, we isolate power before testing terminals, elements, and thermostats. On gas units, we inspect the burner area, pilot or igniter, vent connection, and control valve.",
+            "A typical diagnosis takes about thirty to sixty minutes, depending on access and the fault. We can often replace a thermostat, heating element, anode rod, relief valve, or small fitting during the same visit if the part is available. A replacement tank, corroded piping, ordered gas control, or work needing municipal sign-off may need a separate booking."
+          ]
+        },
+        {
+          "heading": "Tank age and shutoff valves",
+          "paragraphs": [
+            "Tank age affects the repair path. A newer heater with one failed element or thermostat may need a targeted part replacement. A tank with rust at the seam, heavy sediment, or corrosion around the connections can need more extensive work than a single component repair.",
+            "Access also changes the work involved. A heater in an open garage is different from a unit behind a washer, inside a narrow closet, or above a finished ceiling. A seized shutoff valve can add piping work, and a model-specific gas control or burner assembly may need to be ordered. Permit or inspection requirements can also affect the scope where a tank replacement is involved."
+          ]
+        },
+        {
+          "heading": "Model plate and closet access",
+          "paragraphs": [
+            "Check the model plate on the water heater jacket before you call. It usually lists the manufacturer, model number, serial number, fuel type, and tank capacity. Let us know which room holds the heater and whether water is running from the tank, drain pan, relief pipe, or nearby piping.",
+            "A photo of the heater closet can show the access path, vent pipe, shutoff valve, and surrounding appliances. If you know the installation age, share that as well. Call TF Plumber Leander at (512) 799-9083 before a tank leak soaks more flooring, drywall, or framing."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "leak-repair",
+      "name": "Leak Repair",
+      "stance": "timing",
+      "h1": "Leak Repair in Leander, TX",
+      "title": "Leak Repair | TF Plumber Leander | Leander, TX",
+      "meta": "TF Plumber Leander handles leak repair in Leander, TX, checking pipes, valves, faucets, and hidden moisture around walls, cabinets, and fixtures.",
+      "blurb": "We find and repair leaks in pipes, valves, faucets, cabinets, and walls.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A drip under a sink can become a swollen cabinet base within a week. A slow leak behind drywall can leave a larger damp patch, softened wallboard, and stained trim over a month or season.",
+            "Water does not stay at the fitting where it starts. It follows pipe runs, framing, cabinet seams, and floor edges, so leak repair should not wait when water is active, staining is spreading, or a cabinet floor stays damp."
+          ]
+        },
+        {
+          "heading": "Water under the sink",
+          "paragraphs": [
+            "Customers often call about water under the sink, a faucet that keeps dripping after the handle is off, or a wet spot appearing on the ceiling below a bathroom. A hissing sound in a wall, a musty smell in a cabinet, or a water meter that moves with every fixture off can also point to a leak.",
+            "A loose supply connection, worn faucet cartridge, failed valve packing, cracked pipe, and drain joint can all leave water in a similar place. We inspect the fixture and pipe before recommending work because these faults need different parts, access, and repair time."
+          ]
+        },
+        {
+          "heading": "Leak inspection and pressure test",
+          "paragraphs": [
+            "We start a leak inspection at the fixture, exposed supply lines, shutoff valves, drain connections, and nearby cabinet or wall. We dry the area, run the fixture, inspect joints with a light, and use a moisture meter where staining suggests water behind a surface.",
+            "An exposed faucet, valve, or supply tube check commonly takes 20 to 30 minutes. We can read supply pressure with a gauge, since residential plumbing generally operates between 40 and 80 psi, and isolate a fixture to narrow the source.",
+            "We can often replace an exposed supply tube, faucet cartridge, packing nut, or accessible valve component during the visit. A concealed pipe break, tile removal, or wall access repair may need another visit after the route, replacement part, and any required sign-off are arranged."
+          ]
+        },
+        {
+          "heading": "Shutoff valves and wall access",
+          "paragraphs": [
+            "The age and material of the fitting affect the repair. Older galvanized pipe, corroded copper, brittle plastic fittings, and worn compression connections can require more careful removal than a newer accessible supply line.",
+            "Access also changes the work. A leak below an open cabinet is different from a pipe behind tile, drywall, insulation, or a finished ceiling. A seized shutoff valve can prevent us from isolating one fixture, and a replacement part that must be ordered can extend the repair beyond the first visit.",
+            "We also check whether opening a wall or changing concealed piping needs an inspection sign-off. We explain the affected valve, pipe section, and access point before work moves forward."
+          ]
+        },
+        {
+          "heading": "Fixture model and cabinet access",
+          "paragraphs": [
+            "Tell us which room holds the leaking fixture and whether water is still running now. Note whether the water appears at a faucet base, under a cabinet, near a shutoff valve, or through a ceiling below.",
+            "For a faucet repair, the make and model number from installation paperwork or a parts diagram can help us bring the correct cartridge or seal. Let us know the approximate age of the fixture if you know it, and whether the cabinet, crawlspace, or wall access panel is clear.",
+            "Photos of the pipe, valve, and wet area can also help identify the fitting before the visit. Call TF Plumber Leander at (512) 799-9083 before water swells the cabinet base, stains the ceiling, or soaks more wallboard."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "toilet-repair",
+      "name": "Toilet Repair",
+      "stance": "what-it-costs-to-wait",
+      "h1": "Toilet Repair in Leander, TX",
+      "title": "Toilet Repair | TF Plumber Leander | Leander, TX",
+      "meta": "TF Plumber Leander handles toilet repairs in Leander, TX, including running tanks, weak flushes, base leaks, and damaged fill valves at home.",
+      "blurb": "Running toilet, weak flush, or base leak repair across Leander.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A plunger is the right first tool for a bowl that will not clear. It can move paper or a light blockage through the trap. It cannot reseat a flapper, fix a cracked fill valve, or stop water from escaping around the base.",
+            "People also jiggle the flush handle or reach into the tank to move the chain. That is a sensible check if the handle feels loose or the toilet keeps running. The problem often returns because the rubber flapper, lift chain, or tank lever has worn past its useful position.",
+            "A toilet that runs constantly or leaks onto the bathroom floor should not wait. Water can raise the utility bill, damage flooring, and soak the subfloor beneath the bowl."
+          ]
+        },
+        {
+          "heading": "Toilet keeps running",
+          "paragraphs": [
+            "Customers often report a toilet that keeps running after the flush, a tank that will not refill, or a bowl that fills too high before draining slowly. You may also hear a hissing sound behind the tank lid or notice water trickling into the bowl between flushes.",
+            "A weak flush can point to low tank water, a blocked rim, or a worn flush valve. Water around the toilet base can come from tank bolts, a supply connection, condensation, or the wax ring below the bowl. These faults can look alike from the bathroom floor, but the parts and labor involved are not the same."
+          ]
+        },
+        {
+          "heading": "Tank inspection and test",
+          "paragraphs": [
+            "We start with a tank inspection and flush test. We check the flapper seal, fill valve, lift chain, handle, overflow tube, supply hose, tank bolts, and shutoff valve. A basic tank test often takes 10 to 15 minutes, and we can check household water pressure with a gauge if a fill valve is closing poorly.",
+            "Most homes need supply pressure between 40 and 80 psi. We can usually replace a flapper, fill valve, handle, chain, or supply line during the same visit if the correct part is available. A toilet lift, flange repair, or damaged subfloor may need a further visit because the bowl, flooring, and replacement materials must be accessed first."
+          ]
+        },
+        {
+          "heading": "Shutoff valve, fill valve, flange",
+          "paragraphs": [
+            "The condition of the shutoff valve affects the scope of a toilet repair. A working angle stop lets us isolate the tank cleanly. A seized valve, corroded pipe connection, or brittle supply line can add work before a fill valve or flapper can be changed.",
+            "Part age and access also matter. An older toilet may use a flush valve seal or tank hardware that needs to be ordered, especially if the model uses nonstandard parts. A leak below the bowl can require lifting the fixture, checking the flange, and inspecting the floor around the wax ring."
+          ]
+        },
+        {
+          "heading": "Tank stamp and bathroom",
+          "paragraphs": [
+            "Check for the toilet model stamp inside the tank or beneath the tank lid before you call. Tell us which bathroom has the problem and whether the fixture is a standard tank toilet, a dual-flush unit, or a commercial flushometer.",
+            "Let us know if water is running into the bowl now, if the floor is wet, and whether the shutoff valve can turn. Clear stored items from around the tank and bowl if access is tight. Call TF Plumber Leander at (512) 799-9083, since a running fill valve can keep sending water through the overflow tube."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sewer-line-repair",
+      "name": "Sewer Line Repair",
+      "stance": "who-calls",
+      "h1": "Sewer Line Repair in Leander, TX",
+      "title": "Sewer Repair | TF Plumber Leander | Leander, TX",
+      "meta": "At TF Plumber Leander, we repair sewer lines in Leander, TX with camera inspections for backups, roots, damaged pipe, and sewer odors.",
+      "blurb": "We inspect and repair sewer lines behind backups, odors, and gurgling toilets.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "People call us saying, 'My toilet bubbles,' 'the tub is filling up,' or 'it smells like sewage outside.' We translate those reports into a check of the sewer line that carries wastewater from the building. A backup may start at one fixture, then show up in another room.",
+            "This work should not wait if wastewater is backing up. A clog or damaged pipe can send sewage into tubs, floor drains, or the yard. The problem can also reach more fixtures as the line fills."
+          ]
+        },
+        {
+          "heading": "Toilets bubbling and sewage backing up",
+          "paragraphs": [
+            "A toilet that gurgles after a shower or laundry cycle is a common report. So is water rising in a tub when a toilet flushes. We also hear about several drains slowing down at once, especially in bathrooms on the same side of the house.",
+            "A sewage smell near the yard, garage, or cleanout can point to a cracked pipe or open fitting. Wet ground above a buried line can also be a warning sign. The same symptoms can come from different faults, and each repair has its own labor and material needs."
+          ]
+        },
+        {
+          "heading": "Sewer camera inspection",
+          "paragraphs": [
+            "We begin at an accessible cleanout or another suitable entry point. We inspect the pipe wall for roots, cracks, separated joints, standing water, and pipe offsets. The camera counter records the distance to a blockage or damaged section.",
+            "A camera inspection commonly takes 30 to 60 minutes, depending on the access point and line condition. We can often replace an exposed cleanout cap or a short accessible pipe section during the same visit. Excavation, pipe replacement below concrete, or work needing municipal sign-off is scheduled separately."
+          ]
+        },
+        {
+          "heading": "Pipe depth, roots, and access",
+          "paragraphs": [
+            "Pipe material changes the repair scope. Clay pipe can have separated joints, while older cast iron can corrode or crack. PVC usually uses different fittings and transition couplings than clay or cast iron.",
+            "Depth and route also affect the work. An open yard gives us different access than a line beneath a driveway, patio, slab, or mature tree roots. A buried cleanout, a seized cap, an ordered coupling, or required inspection sign-off can add steps before the repair is complete."
+          ]
+        },
+        {
+          "heading": "Cleanout location and backup room",
+          "paragraphs": [
+            "Tell us which room has the backup and which fixture first showed the problem. Let us know whether water or sewage is still moving through the tub, toilet, floor drain, or yard. If you know where the cleanout sits, such as beside the house, in the garage, or near a fence, that helps us plan the inspection. Mention any driveway, patio, landscaping, gate, or stored items above the suspected line route. A prior camera report or plumbing map can also help identify the pipe material and past repair location. Call TF Plumber Leander at (512) 799-9083 before a sewer backup spreads from one fixture into more rooms or the yard."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "garbage-disposal-repair",
+      "name": "Garbage Disposal Repair",
+      "stance": "the-house",
+      "h1": "Garbage Disposal Repair in Leander, TX",
+      "title": "Garbage Disposal Repair | TF Plumber Leander | Leander, TX",
+      "meta": "TF Plumber Leander repairs humming, leaking, and jammed garbage disposals in Leander, TX, with checks of motors, switches, mounts, and sink drains.",
+      "blurb": "Garbage disposal repair for humming motors, leaks, jams, and sink backups.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Older kitchens in Leander, Cedar Park, Jonestown, and Liberty Hill often have disposal units with worn mounting rings, aging switches, or corroded wiring beneath the sink. A disposal works beside water, food waste, and vibration, so the motor, drain connection, and splash guard all take regular wear.",
+            "We check the unit, sink flange, electrical feed, and discharge pipe to find the fault. A humming motor or a leak under the cabinet should not wait, because a jammed motor can overheat and a loose sink connection can damage the cabinet floor."
+          ]
+        },
+        {
+          "heading": "Humming disposal and sink odor",
+          "paragraphs": [
+            "A disposal that hums without turning is a common call. The grinding plate may be jammed, the reset button may have tripped, or the motor may no longer start. A disposal that makes a rattling sound can have a utensil, bone fragment, or loose internal part inside the grinding chamber.",
+            "Sour odor from the sink can come from food trapped around the splash guard, inside the disposal, or in the drain connection. Water under the sink may point to the mounting ring, dishwasher hose, discharge tube, or sink flange. These symptoms can look alike from the counter, but each fault involves different parts and different repair work."
+          ]
+        },
+        {
+          "heading": "Disposal callout and testing",
+          "paragraphs": [
+            "We start the callout by testing the wall switch, reset button, outlet, and motor response. We check whether the electrical supply reaches the unit at about 120 volts, then inspect the cord, wiring connections, mounting ring, splash guard, and discharge tube.",
+            "Initial testing commonly takes 20 to 40 minutes. We remove a jam, clear debris, reset the unit, tighten a mount, or replace a damaged connection during the same visit where the needed part is available. A failed motor, cracked housing, or special mounting assembly may require a replacement unit or part to be booked after the inspection.",
+            "We also run water through the sink and disposal to check the drain path and look for leaks at the flange and trap. A standard sink discharge tube is often 1 1/2 inches, but the existing fittings determine what is needed."
+          ]
+        },
+        {
+          "heading": "Motor age and sink access",
+          "paragraphs": [
+            "The disposal motor and its age affect the repair scope. A unit with a minor jam or worn splash guard needs different work than a unit with a seized motor, damaged grinding chamber, or cracked body.",
+            "Access under the sink also matters. Tight cabinets, stored items, corroded mounting hardware, and a seized water shutoff can add work before we can reach the flange or drain connection. A model-specific switch, mounting ring, or dishwasher connector may need to be ordered.",
+            "Circuit changes can also affect the scope if the outlet, switch, or wiring needs alteration. Permit or inspection sign-off requirements may apply where electrical work goes beyond the existing disposal connection."
+          ]
+        },
+        {
+          "heading": "Model number and nameplate",
+          "paragraphs": [
+            "Check the model number on the disposal nameplate before calling. The label is often on the lower housing or side of the unit beneath the sink.",
+            "Tell us which kitchen sink has the problem and whether the disposal hums, leaks, drains slowly, or will not turn on. Let us know if water is running from the disposal now and whether cleaning supplies, shelving, or stored items block the cabinet access.",
+            "A photo of the mounting area and discharge pipe can help identify the connection. Call TF Plumber Leander at (512) 799-9083 before a leak at the sink flange or disposal body soaks the cabinet base and surrounding wood."
+          ]
+        }
+      ]
+    }
+  ],
+  "areas": [
+    "Leander",
+    "Cedar Park",
+    "Jonestown",
+    "Liberty Hill"
+  ],
+  "hours": [
+    {
+      "day": "Monday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "open": "Open 24 hours"
+    }
+  ],
+  "alt": {
+    "1": "A plumber kneeling at an open kitchen cabinet, turning a red pipe wrench on the waste pipe under the sink",
+    "2": "A plumber feeding a drain cable into an open sewer cleanout on a front lawn, with a camera reel and an open service van behind him",
+    "3": "A plumber reaching into an open toilet cistern to fit a new fill valve in a tiled bathroom",
+    "4": "A plumber replacing the P-trap under a stainless steel kitchen sink while the tap runs"
+  },
+  "cover": 2,
+  "logo": "",
+  "structure": "beacon",
+  "imageSet": "set-2",
+  "verification": [],
+  "home": {
+    "sub": "We handle plumbing problems at fixtures, pipes, and drains throughout Leander homes and businesses.",
+    "title": "Plumbing Leander, TX | TF Plumber Leander",
+    "meta": "For plumbing help in Leander, TX, call TF Plumber Leander about leaks or water heaters. We discuss the symptoms, fixture, and next step before work begins.",
+    "aboutHeading": "Plumbing Help in Leander, TX",
+    "firstBreak": "We can listen to what you are seeing.",
+    "secondBreak": "We can discuss the next step with you.",
+    "about": [
+      "We hear gurgling from a sink, dripping inside a wall, or banging in pipes. We see water around a toilet or cabinet, and notice a sewer smell in a bathroom.",
+      "We begin beneath kitchen sinks or behind bathroom walls. A blockage, worn washer, or loose pipe joint is usually behind the problem. We inspect fixture, trace piping, and complete work in Leander, Cedar Park, Jonestown, and Liberty Hill.",
+      "We assess a toilet with a cracked bowl before choosing repair or replacement. A minor internal part may favor repair, but a damaged bowl may favor replacement. We tell the customer which option fits before any price is discussed."
+    ]
+  },
+  "now": "2026-11-12T00:59:55.950Z"
+}

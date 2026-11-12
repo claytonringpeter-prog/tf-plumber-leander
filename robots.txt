@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tf-plumber-leander.1r2.net/sitemap.xml
